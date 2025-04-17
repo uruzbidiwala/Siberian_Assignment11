@@ -1,4 +1,17 @@
-﻿import pandas as pd
+﻿# File Name: cleanData.py
+# Names: Nogaye Gueye, Uruz Bidiwala
+# email:  gueyene@mail.uc.edu  bidiwaur@mail.uc.edu
+# Assignment Number: Assignment 11
+# Due Date:  04/17/2025
+# Course #/Section:   IS4010
+# Semester/Year:   Spring 2025
+# Brief Description of the assignment: Created classes and methods with code to clean data sets and create csv files. 
+# Brief Description of what this module does: Contains code that cleans the data, edits addresses and removes repeated data rows, etc. 
+# Citations: openai.com 
+# Anything else that's relevant: N/A
+
+
+import pandas as pd
 import requests
 import re
 import time
